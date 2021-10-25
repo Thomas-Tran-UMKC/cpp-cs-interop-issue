@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+.vs/
+.vscode/
+build/
+Debug/
+Release/
+packages/
+bin/
+Generated Files/
+
+# Extra files
+*.aps
+*.exe
+*.appx
+*.ico
+
